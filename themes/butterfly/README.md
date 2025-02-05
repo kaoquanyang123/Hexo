@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/jerryc127/hexo-theme-butterfly/blob/dev/source/img/butterfly-icon.png" width="150" height="150" />
+<img src="https://github.com/jerryc127/hexo-theme-butterfly/blob/dev/source/img/butterfly-icon.png?raw=true" width="150" height="150" />
 
 # hexo-theme-butterfly
 
